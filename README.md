@@ -1,4 +1,4 @@
-# KaggleTwoSigmaRentHop
-Code for Kaggle_TwoSigmaRentHop Competition
+# Kaggle TwoSigma RentHop
+Code for Kaggle_Two Sigma RentHop Competition
 
-Finish First EDA
+03/28/2017 - Finish First EDA
